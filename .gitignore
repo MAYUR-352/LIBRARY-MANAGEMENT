@@ -9,8 +9,7 @@ __pycache__/
 .venv/
 venv/
 admin.py
-Dockerfile
-docker-compose-yml
+
 
 # VSCode
 .vscode/
