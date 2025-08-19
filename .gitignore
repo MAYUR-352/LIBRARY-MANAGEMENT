@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+.venv/
+venv/
+admin.py
+
+# VSCode
+.vscode/
+
+# Alembic
+alembic/versions/
+
+# Logs
+*.log
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
